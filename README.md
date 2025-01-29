@@ -30,7 +30,7 @@
 </p>
 
 <br>
-<h2 >Known Tecnhologies 👨🏻‍💻</h2>
+<h2  align="left" >Known Tecnhologies 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
