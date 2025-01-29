@@ -29,11 +29,12 @@
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
+<br>
 <h2 >Known Tecnhologies 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,dart,flutter,py,css,html,js,mysql,sqlite,mongodb,git,github,docker,postman,eclipse,vscode,bash,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,flutter,py,css,html,js,mysql,sqlite,mongodb,git,github,docker,postman,eclipse,vscode,bash,linux,ps&perline=12" />
   </a>
 </p>
 <br>
