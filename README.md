@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geffrey Zambrano</h1>
-<h3 align="center">Desarrollador web y multiplataforma🌟.</h3>
+<h3 align="center"> Higher Technician in Development of Web Applications and Multi-platform Applications 🌟.</h3>
 
 <br>
 
@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="geff" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Multi-platform Development and other programming languages
 
 - 📫 How to reach me **zambranogeffrey@icloud.com**
 
