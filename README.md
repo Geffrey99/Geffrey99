@@ -31,6 +31,15 @@
 
 <br>
 
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,dart,flutter,py,,css,html,js,,mysql,sqlite,mongodb,git,github,docker,postman,eclipse,vscode,bash,linux,ps&perline=12" />
+  </a>
+</p>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
