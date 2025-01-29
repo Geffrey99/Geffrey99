@@ -29,9 +29,6 @@
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
-
-<br>
-
 <h2 >Known Tecnhologies 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
