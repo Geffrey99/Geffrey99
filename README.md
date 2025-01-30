@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning Multi-platform Development and other programming languages
 
-- 📫 How to reach me ** <a href="https://geffrey99.github.io/Portafolio/" target="blank"> Web </a>**
+-⚡ Fun fact: Sports and Music 🎵 are my greatest pleasures.
 
-⚡ Fun fact: Sports and Music 🎵 are my greatest pleasures.
+- 👨‍💻 About me: **<a href="https://geffrey99.github.io/Portafolio/" target="blank"> geff2.0 </a>**
 
 <br>
 
