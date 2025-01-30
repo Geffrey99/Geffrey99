@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning Multi-platform Development and other programming languages
 
-- 📫 How to reach me **zambranogeffrey@icloud.com**
+- 📫 How to reach me ** <a href="https://geffrey99.github.io/Portafolio/" target="blank"> /></a>**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+⚡ Fun fact: Sports and Music 🎵 are my greatest pleasures.
 
 <br>
 
